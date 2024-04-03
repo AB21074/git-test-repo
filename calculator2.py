@@ -47,4 +47,4 @@ if __name__ == '__main__':
     print(Calculator.sub(numa, numb))
     print(Calculator.mul(numa, numb))
     print(Calculator.dev(numa, numb))
-    print(Calculator.cal_formula('2 * 3')
+    print(Calculator.cal_formula('2 * 3'))
