@@ -20,7 +20,6 @@ class Calculator:
         """掛け算を行う."""
         return a * b
 
-
     # 割り算を行う関数を実装してください
     # @staticmethod
     # def dev(a, b) -> float:
@@ -41,6 +40,10 @@ if __name__ == '__main__':
     print(Calculator.add(numa, numb))
     print(Calculator.sub(numa, numb))
     print(Calculator.mul(numa, numb))
+
+    # print(Calculator.add(numa, numb))
+
+
     # 文字列の読み込み
 
     # 計算
